@@ -17,7 +17,7 @@ pip install nbdev_demo
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+foo()
 ```
 
-    2
+    Hello World
