@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_demo"
+  site-url: "https://jerryweijin.github.io/nbdev_demo"
+  description: "A project to demonstrate how to use nbdev. nbdev is a tool that help streamline development, documentation, testing, and publication python applications using Jupyter Notebook."
+  repo-branch: main
+  repo-url: "https://github.com/jerryweijin/nbdev_demo"
