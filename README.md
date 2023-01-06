@@ -21,3 +21,5 @@ foo()
 ```
 
     Hello World
+
+[00_core](/00_core.ipynb)
